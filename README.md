@@ -4,8 +4,8 @@ Program slouží ke stažení výsledků voleb
 ## Instalace knihovem
 Soubor requirements.txt obsahuje seznam knihovem, kroky instlace pomocí pip:
 
-$ pip3 --version  # ověřění verze
-$ pip3 install -r requirements.txt  # nainstalujeme knihovny
+$pip3 --version  # ověřění verze
+$pip3 install -r requirements.txt  # nainstalujeme knihovny
 
 ## Spuštění programu
 Spustíme projekt_3.py dvěma argumenty:
